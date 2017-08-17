@@ -74,7 +74,7 @@ public class nook1 {
            // System.out.println(random_idx1[i]);
             //System.out.println(random_idx2[i]);
        // }
-        System.out.println(nook_1+nook_2+nook_3+nook_4+nook_5+nook_6);
+        //System.out.println(nook_1+nook_2+nook_3+nook_4+nook_5+nook_6);
     }
 
 }
