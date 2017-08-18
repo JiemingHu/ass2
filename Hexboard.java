@@ -39,7 +39,7 @@ import java.util.Map;
 import java.util.Random;
 
 /**
- * Created by Jieming on 2015/9/25.
+ * Created by Jieming on 2017/6/25.
  */
 public class Hexboard extends Application {
 
