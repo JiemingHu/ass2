@@ -27,7 +27,7 @@ import javafx.event.ActionEvent;
 import java.awt.event.InputEvent;
 import java.util.Random;
 
-//test different branch
+//test different branchA
 /**
  * Created by jieming on 2015/9/13.
  */
